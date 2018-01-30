@@ -5,5 +5,6 @@ This desktop application provides a platform for users to coordinate productivit
 
 Overall, this application helps groups better manage time and productivity in a project by organizing their tasks into mutually-shared lists, which helps them track group as well as individual progress on different components of the project.
 
-#Responsibilities
-Managed Database and wrote database connector functions using Java and MySQL
+# Responsibilities
+
+Managed Database and wrote database connector functions using Java, JDBC and MySQL
